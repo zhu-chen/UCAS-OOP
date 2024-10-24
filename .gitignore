@@ -24,3 +24,6 @@ hs_err_pid*
 replay_pid*
 
 *.Identifier
+
+#pytorch lib is too large
+pytorch/ 
